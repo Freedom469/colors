@@ -31,5 +31,6 @@ func main() {
 		
 	}
 	fmt.Println()
+	fmt.Println("\x1b[38;5;226m yellow \x1b[0m")
 	
 }
